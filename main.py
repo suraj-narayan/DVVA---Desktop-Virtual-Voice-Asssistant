@@ -129,5 +129,6 @@ def assistant(command):
 talkToMe('I am ready for your command')
 
 #loop to continue executing multiple commands
+#main interface starts here
 while True:
     assistant(myCommand())
